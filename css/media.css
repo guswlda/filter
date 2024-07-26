@@ -1,0 +1,24 @@
+@media screen and (max-width:1278px) {
+  .wrapper{width:80%;display:flex;justify-content: center;}
+
+  .filter-wrapper {margin-top:10vh;}
+}
+
+@media  screen and (max-width:1130px) {
+  .filter-images .filter-image {width:33.33%; }
+}
+
+
+/* @media screen and (max-width:744px) {
+
+.filter-wrapper{width:70%; display:flex; flex-direction:column; }
+
+.filter-btns {flex-direction: column; width:385px;}
+
+.filter-images .filter-image{width:50%;}
+
+} */
+
+/* @media screen and (max-width:768px) {
+.
+} */
